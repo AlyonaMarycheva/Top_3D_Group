@@ -412,7 +412,7 @@ hr {
     display: flex; }
 
 .content__wrapper {
-  min-width: 20rem; }
+  min-width: 30rem; }
   @media only screen and (max-width: 27.5em) {
     .content__wrapper {
       display: flex;
